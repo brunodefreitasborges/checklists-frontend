@@ -2,7 +2,7 @@
 
 Parte Front-end da aplicação que automatiza o processo de pesquisar uma placa no website da seguradora e verificar a data de vencimento do checklist.
 
-<a href="https://checklists-raupp-gs.netlify.app/">![Print Do Projeto](https://github.com/brunodefreitasborges/checklists-frontend/blob/main/checklists.png?raw=true)</a>
+<a href="https://checklists-raupp-gs.netlify.app/">![alt text](checklists.png)</a>
 
 ## Problema
 
@@ -14,6 +14,8 @@ O processo de checagem dos vencimentos é manual pelo site da própria segurador
 ## Solução
 
 O processo de checagem das placas foi automatizado no próprio navegador, utilizando a biblioteca Puppeteer para manipulação do DOM e interações com os campos de formulário.
+
+Os dados sensíveis como usuário e senha para login na plataforma foram colocados em Enviroment Variables.
 
 Os dados retornados foram então convertidos em JSON e disponibilizados através de um Endpoint.
 
