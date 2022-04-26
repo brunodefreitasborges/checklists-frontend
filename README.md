@@ -2,6 +2,8 @@
 
 Parte Front-end da aplicação que automatiza o processo de pesquisar uma placa no website da seguradora e verificar a data de vencimento do checklist.
 
+<a href="https://checklists-raupp-gs.netlify.app/">![Print Do Projeto](https://github.com/brunodefreitasborges/checklists-frontend/blob/main/checklists.png?raw=true)</a>
+
 ## Problema
 
 Cada veículo da frota deve realizar um checklist para atestar a funcionalidade das ferramentas de rastreamento - sensores de porta, sirene, bloqueio.
