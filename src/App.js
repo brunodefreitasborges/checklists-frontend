@@ -12,8 +12,6 @@ function App() {
           <Checklist placa="DJE4C67" />
           <Checklist placa="FRI4452" />
           <Checklist placa="IDY9179" />
-          <Checklist placa="IIK9C63" />
-          <Checklist placa="ILF6901" />
           <Checklist placa="IQK0923" />
           <Checklist placa="IRP2263" />
           <Checklist placa="ITR7E12" />
