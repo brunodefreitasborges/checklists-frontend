@@ -24,7 +24,7 @@ A página de Front-end faz a requisição por API e traz os dados de vencimento 
 ## Back-End
 
 NodeJS roda o script do Puppeteer utilizando Chrome-AWS-Lambda, o que agiliza o processo de scraping e diminui o tamanho do arquivo.
-Uma rota é criada usando Express, com a possibilidade de especificar a placa a ser pesquisa via query.
+Uma rota é criada usando Express, com a possibilidade de especificar a placa a ser pesquisada via query.
 Por fim, o endpoint da API foi hospedado na Netlify - em uma função serverless.
 
 ## Front-End
