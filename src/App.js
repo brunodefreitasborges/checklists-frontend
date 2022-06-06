@@ -9,8 +9,8 @@ function App() {
         <div className='tres-quartos'>
           <h2>3/4</h2>
           <Checklist placa="AOG8D93" />
-          <Checklist placa="DJE4C67" />
           <Checklist placa="FRI4452" />
+          <Checklist placa="GGA2G98" />
           <Checklist placa="IDY9179" />
           <Checklist placa="IQK0923" />
           <Checklist placa="IRP2263" />
